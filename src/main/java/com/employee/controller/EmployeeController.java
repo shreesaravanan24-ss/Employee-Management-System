@@ -5,7 +5,7 @@ import com.employee.service.impl.EmployeeServiceImpl;
 import com.employee.service.interfaces.EmployeeService;
 
 import java.util.List;
-
+// @RestController
 public class EmployeeController {
 
     private final EmployeeService employeeService;

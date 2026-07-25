@@ -11,3 +11,4 @@ public class Main {
 
     }
 }
+//jpa spring dev tools thymeleaf spring web

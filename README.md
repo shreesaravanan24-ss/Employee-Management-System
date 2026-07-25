@@ -1,12 +1,12 @@
 # Employee Management System
 
-## 📌 Project Overview
+##  Project Overview
 
 Employee Management System is a console-based application developed using Core Java, JDBC, and MySQL. It follows a layered MVC architecture and demonstrates CRUD operations with a clean and modular project structure.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add Employee
 - View All Employees
@@ -21,7 +21,7 @@ Employee Management System is a console-based application developed using Core J
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Core Java
 - JDBC
@@ -32,7 +32,7 @@ Employee Management System is a console-based application developed using Core J
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 src
 ├── main
@@ -56,7 +56,7 @@ src
 
 ---
 
-## 🗄 Database
+##  Database
 
 Database Name
 
@@ -68,7 +68,7 @@ employee
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository.
 2. Create the MySQL database.
@@ -79,7 +79,7 @@ employee
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 (Add screenshots after running the project.)
 
@@ -97,7 +97,7 @@ employee
 
 ---
 
-## 👨‍💻 Author
+## 👨‍ Author
 
 Shree Saravanan
 

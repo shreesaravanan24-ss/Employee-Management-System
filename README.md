@@ -85,7 +85,7 @@ employee
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Login Authentication
 - Spring Boot Migration
@@ -97,7 +97,7 @@ employee
 
 ---
 
-## 👨‍ Author
+##  Author
 
 Shree Saravanan
 

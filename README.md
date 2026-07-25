@@ -81,7 +81,7 @@ employee
 
 ##  Screenshots
 
-(Add screenshots after running the project.)
+Need to display screenshots of the project.
 
 ---
 
@@ -104,3 +104,21 @@ Shree Saravanan
 B.Tech Artificial Intelligence and Data Science
 
 Nehru Institute of Engineering and Technology
+
+---
+
+#  Contribution
+
+Suggestions and improvements are always welcome.
+
+Feel free to fork the repository and enhance the project.
+
+---
+
+#  License
+
+This project is released under the MIT License.
+
+---
+
+If you found this project useful, consider giving it a star on GitHub!
